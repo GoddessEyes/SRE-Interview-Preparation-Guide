@@ -22,7 +22,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [x] [Understand UNIX / Linux Inodes Basics with Examples](https://www.thegeekstuff.com/2012/01/linux-inodes)
 - [x] [Understanding proc filesystem](https://syedali.net/2013/08/20/understanding-proc-filesystem)
 - [x] [Common Mount Options](https://syedali.net/2015/01/06/common-mount-options)
-- [ ] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
+- [x] [Understanding Linux filesystems: ext4 and beyond](https://opensource.com/article/18/4/ext4-filesystem)
 
 ### Kernel
 
