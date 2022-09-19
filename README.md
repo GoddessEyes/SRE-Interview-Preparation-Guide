@@ -37,7 +37,7 @@ This repository is an attempt to consolidate useful resources for Site Reliabili
 - [x] [The Virtual Filesystem](http://learnlinuxconcepts.blogspot.com/2014/10/the-virtual-filesystem.html)
 - [x] [Concurrency and Race Conditions](http://learnlinuxconcepts.blogspot.com/2014/07/concurrency-and-race-conditions.html)
 - [x] [Memory Leak](https://stackoverflow.com/questions/312069/the-best-memory-leak-definition)
-- [ ] [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html)
+- [x] [What is a kernel Panic?](http://learnlinuxconcepts.blogspot.com/2014/07/what-is-kernel-panic.html)
 
 ### Troubleshooting
 
